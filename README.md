@@ -4,7 +4,8 @@ Employing the newly developed Spatial Pattern Interactions Downscaling (SPID) me
 
 Use this link to download the data directly: https://home.chpc.utah.edu/~u6047395/ClimAVA_sw_data/
 
-A download script named "ClimAVA_sw_downloading_script.R" is available here for users preferring to download the data using R. Additional support files for the code can be find in the below links:
+A download script named "ClimAVA_sw_downloading_script.R" is available here for users preferring to download the data using R. Additional support files for the code can be found in the below links:
+
 1- All scripts and accessory data involved in creating ClimAVA can be found: https://home.chpc.utah.edu/~u6047395/ClimAVA_sw_scripts/
 
 2- The data used in training: https://home.chpc.utah.edu/~u6047395/ClimAVA_sw_training_data/

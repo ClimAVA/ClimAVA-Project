@@ -1,4 +1,0 @@
-ID,VAR,VAR2,Name,Long_name,Units,units2
-1,prec,pr,Precipitation,Daily Precipittaion,mm,kg.m-2.s-1
-2,tmax,tasmax,Temperature,Daily maximum air temperature,Deg_C,K
-3,tmin,tasmin,Temperature,Daily minimum air temperature,Deg_C,K
